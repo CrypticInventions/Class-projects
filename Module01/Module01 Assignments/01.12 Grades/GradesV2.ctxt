@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradesV2
+comment0.text=\r\n\ The\ calculation\ of\ test\ grades\ number\ of\ tests\ and\ test\ points\ to\ identify\r\n\ the\ average\ grade\ for\ all\ the\ tests.\r\n\r\n\ @author\ (Brandon\ Hugger)\r\n\ @version\ (7/25/20)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
